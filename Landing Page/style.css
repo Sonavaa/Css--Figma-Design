@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#body{
+position: relative;
+
+margin: 0 auto;
+}
+#pageKit{
+position: absolute;
+
+}
+#awesome{
+    position: absolute;
+    rotate: 346deg;
+    top: 0;
+    left: 0;
+    transform: translate(292px,188.16px);
+
+}
+#cursor{
+    position: absolute;
+    transform: translate(452px,150.5px);
+}
